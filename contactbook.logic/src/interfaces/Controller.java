@@ -2,6 +2,8 @@ package interfaces;
 
 import java.time.LocalDate;
 
+import domain.Contact;
+
 public interface Controller {
 
 	/**
