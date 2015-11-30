@@ -33,6 +33,8 @@ public interface Controller {
 			String email)
 			throws ExistingContactException;
 	
+	public void sadfasdfContact();
+	
 	/**
 	 * Denne metode giver besked til ContactMapping om at tilføje den angivet kontakt.
 	 * @param temporaryContact
